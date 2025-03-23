@@ -15,7 +15,7 @@ const App = () => {
   const [theme, setTheme] = useState("dark");
   const currentProcessId = useRef(null);
   const isCancelled = useRef(false);
-  const API_KEY = "AIzaSyBynUKwAktNRwPh_bl0DmBu6owJ5Uc5ux8";
+  const API_KEY = "Enter Your Key";
 
   useEffect(() => {
     loadTheme();
