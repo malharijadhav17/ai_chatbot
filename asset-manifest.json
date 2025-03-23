@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/ai_chatbot/static/js/main.d3aa232d.js",
+    "static/js/671.3df966d2.js": "/ai_chatbot/static/js/671.3df966d2.js",
+    "favicon.ico": "/ai_chatbot/favicon.ico",
+    "index.html": "/ai_chatbot/index.html",
+    "favicon-32.png": "/ai_chatbot/favicon-32.png",
+    "favicon-16.png": "/ai_chatbot/favicon-16.png",
+    "serve.json": "/ai_chatbot/serve.json",
+    "manifest.json": "/ai_chatbot/manifest.json",
+    "main.d3aa232d.js.map": "/ai_chatbot/static/js/main.d3aa232d.js.map",
+    "671.3df966d2.js.map": "/ai_chatbot/static/js/671.3df966d2.js.map"
+  },
+  "entrypoints": [
+    "static/js/671.3df966d2.js",
+    "static/js/main.d3aa232d.js"
+  ]
+}
