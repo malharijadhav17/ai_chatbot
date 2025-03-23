@@ -1,0 +1,35 @@
+{
+  "name": "ai_chatbot",
+  "license": "0BSD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://malharijadhav17.github.io/ai_chatbot",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "predeploy": "expo export --platform web",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~4.0.1",
+    "@react-native-async-storage/async-storage": "^2.1.2",
+    "@react-native-clipboard/clipboard": "^1.16.2",
+    "axios": "^1.8.3",
+    "expo": "~52.0.31",
+    "expo-status-bar": "~2.0.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-native": "0.76.7",
+    "react-native-paper": "^5.13.1",
+    "react-native-web": "~0.19.13",
+    "react-syntax-highlighter": "^15.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@expo/webpack-config": "^19.0.1",
+    "gh-pages": "^6.3.0"
+  },
+  "private": true
+}
